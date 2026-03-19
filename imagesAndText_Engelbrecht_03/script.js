@@ -27,7 +27,7 @@ caption: 'Where to next?'
 alt: 'sixth',
 caption: 'Relaxation'
 },
-{ src: 'images/image07.jpg',
+{ src: 'images/Image07.jpg',
 alt: 'seventh',
 caption: 'Bonding'
 },
